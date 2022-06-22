@@ -1,4 +1,9 @@
 # Log your daily status here
 
 # Day1
-I worked on XXXX. You can find that here - <your github link for the file>
+I worked on NodeJS basics - http module, render text to api, start a server, basic calculator. You can find that here - https://github.com/eswari-mani-priya/nodejs_learning/blob/master/calculator.js, https://github.com/eswari-mani-priya/nodejs_learning/blob/master/server.js
+
+# Day2
+Today I learnt about creating custom modules, anonymous functions, rendering html and routing. You can find that here - 
+https://github.com/eswari-mani-priya/nodejs_learning/blob/master/server.js
+https://github.com/eswari-mani-priya/nodejs_learning/blob/master/routing_server.js
