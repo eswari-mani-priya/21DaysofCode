@@ -7,3 +7,9 @@ I worked on NodeJS basics - http module, render text to api, start a server, bas
 Today I learnt about creating custom modules, anonymous functions, rendering html and routing. You can find that here - 
 https://github.com/eswari-mani-priya/nodejs_learning/blob/master/server.js
 https://github.com/eswari-mani-priya/nodejs_learning/blob/master/routing_server.js
+
+#Day3
+I learnt how to send a form data through POST request. Also, started learning express JS framework and created basic express project structure using express-generator.
+You can find my work here:
+https://github.com/eswari-mani-priya/nodejs_learning/tree/master/simple-form
+https://github.com/eswari-mani-priya/nodejs_learning/blob/master/form_app.js
