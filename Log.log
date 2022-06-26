@@ -13,3 +13,15 @@ I learnt how to send a form data through POST request. Also, started learning ex
 You can find my work here:
 https://github.com/eswari-mani-priya/nodejs_learning/tree/master/simple-form
 https://github.com/eswari-mani-priya/nodejs_learning/blob/master/form_app.js
+
+#Day4
+Learnt PugJS templating engine and also Handlebars templating engine in express js framework. 
+https://github.com/eswari-mani-priya/nodejs_learning/tree/master/simple-form
+https://github.com/eswari-mani-priya/nodejs_learning/tree/master/handlebars
+
+#Day5
+Learnt Validations and Sessions in Express JS framework. Added a simple login form using them.
+https://github.com/eswari-mani-priya/nodejs_learning/tree/master/validations_sessions
+
+#Day6
+Learnt using Mongodb with express JS and implemented CRUD operations.
