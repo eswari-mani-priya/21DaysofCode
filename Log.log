@@ -46,3 +46,13 @@ https://github.com/eswari-mani-priya/nodejs_learning/tree/master/prp_tool
 #Day11
 Learnt serving static, dynamic files using handlers and used GET and POSt methods. 
 https://github.com/eswari-mani-priya/nodejs_learning/tree/master/prp_tool
+
+
+#Day12
+Started building my application. Step1 I created a download link for local pdf python book.
+https://github.com/eswari-mani-priya/nodejs_learning/tree/master/prp_tool
+
+#Day13
+Step2 I installed mongoose and created a model which holds book title, image and the book pdf. I uploaded files to google drive and using google drive link I am able to show title of the book with clickable image when clicked shows the underlying pdf.
+https://github.com/eswari-mani-priya/nodejs_learning/tree/master/prp_tool
+
